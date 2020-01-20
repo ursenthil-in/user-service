@@ -1,0 +1,9 @@
+com\msn\practise\userservice\controller\UserController.class
+com\msn\practise\userservice\exception\ExceptionResponse.class
+com\msn\practise\userservice\exception\UserNotFoundException.class
+com\msn\practise\userservice\model\User.class
+com\msn\practise\userservice\exception\ControllerAdviceResponseEntityExceptionHandler.class
+com\msn\practise\userservice\configuration\TodoConfiguration.class
+com\msn\practise\userservice\dao\jdbc\UserJdbcDAO.class
+com\msn\practise\userservice\service\UserService.class
+com\msn\practise\userservice\TodoApplication.class
