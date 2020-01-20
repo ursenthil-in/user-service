@@ -20,7 +20,7 @@ import com.msn.practise.userservice.model.User;
 public class TodoApplication implements CommandLineRunner{
 
 	
-	//private Logger log
+	//private Logger log test1111111111111111111111111111111111
 	
 	@Autowired
 	UserJdbcDAO userJdbcDao;
